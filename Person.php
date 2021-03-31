@@ -9,6 +9,7 @@ class Person {
         $this->isTeam = !is_null($members);
     }
 
+
 }
 
 ?>
