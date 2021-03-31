@@ -1,5 +1,5 @@
 <?php
-require_once('data2.php');
+require_once('data1.php');
 
 function getTeams($list){
     $teamList = [];
