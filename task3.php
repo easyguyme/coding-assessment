@@ -1,5 +1,5 @@
 <?php
-require_once('data3.php');
+require_once('data2.php');
 
 function get_members($team){
     $allPeople = [];
